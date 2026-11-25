@@ -1,0 +1,15 @@
+# Build artifacts
+target/
+**/target/
+
+# IDE files
+.idea/
+**/.idea/
+*.iml
+**/*.iml
+.vscode/
+.DS_Store
+
+# Large local recordings / course materials
+*.mp4
+*.pdf
